@@ -1,0 +1,14 @@
+C:\Users\aleks\bin\NET\PetGenerator\ThePetSaga\bin\Debug\net8.0\ThePetSaga.exe
+C:\Users\aleks\bin\NET\PetGenerator\ThePetSaga\bin\Debug\net8.0\ThePetSaga.deps.json
+C:\Users\aleks\bin\NET\PetGenerator\ThePetSaga\bin\Debug\net8.0\ThePetSaga.runtimeconfig.json
+C:\Users\aleks\bin\NET\PetGenerator\ThePetSaga\bin\Debug\net8.0\ThePetSaga.dll
+C:\Users\aleks\bin\NET\PetGenerator\ThePetSaga\bin\Debug\net8.0\ThePetSaga.pdb
+C:\Users\aleks\bin\NET\PetGenerator\ThePetSaga\obj\Debug\net8.0\ThePetSaga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\bin\NET\PetGenerator\ThePetSaga\obj\Debug\net8.0\ThePetSaga.AssemblyInfoInputs.cache
+C:\Users\aleks\bin\NET\PetGenerator\ThePetSaga\obj\Debug\net8.0\ThePetSaga.AssemblyInfo.cs
+C:\Users\aleks\bin\NET\PetGenerator\ThePetSaga\obj\Debug\net8.0\ThePetSaga.csproj.CoreCompileInputs.cache
+C:\Users\aleks\bin\NET\PetGenerator\ThePetSaga\obj\Debug\net8.0\ThePetSaga.dll
+C:\Users\aleks\bin\NET\PetGenerator\ThePetSaga\obj\Debug\net8.0\refint\ThePetSaga.dll
+C:\Users\aleks\bin\NET\PetGenerator\ThePetSaga\obj\Debug\net8.0\ThePetSaga.pdb
+C:\Users\aleks\bin\NET\PetGenerator\ThePetSaga\obj\Debug\net8.0\ThePetSaga.genruntimeconfig.cache
+C:\Users\aleks\bin\NET\PetGenerator\ThePetSaga\obj\Debug\net8.0\ref\ThePetSaga.dll
