@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ThePetSaga
-build_property.ProjectDir = C:\Users\aleks\bin\NET\PetGenerator\ThePetSaga\
+build_property.ProjectDir = C:\Users\aleks\Main\test\MythicalDuels\PetGenerator\ThePetSaga\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

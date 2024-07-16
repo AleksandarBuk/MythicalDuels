@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleks\\bin\\NET\\PetGenerator\\ThePetSaga\\ThePetSaga.csproj": {}
+    "C:\\Users\\aleks\\Main\\test\\MythicalDuels\\PetGenerator\\ThePetSaga\\ThePetSaga.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleks\\bin\\NET\\PetGenerator\\ThePetSaga\\ThePetSaga.csproj": {
+    "C:\\Users\\aleks\\Main\\test\\MythicalDuels\\PetGenerator\\ThePetSaga\\ThePetSaga.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleks\\bin\\NET\\PetGenerator\\ThePetSaga\\ThePetSaga.csproj",
+        "projectUniqueName": "C:\\Users\\aleks\\Main\\test\\MythicalDuels\\PetGenerator\\ThePetSaga\\ThePetSaga.csproj",
         "projectName": "ThePetSaga",
-        "projectPath": "C:\\Users\\aleks\\bin\\NET\\PetGenerator\\ThePetSaga\\ThePetSaga.csproj",
+        "projectPath": "C:\\Users\\aleks\\Main\\test\\MythicalDuels\\PetGenerator\\ThePetSaga\\ThePetSaga.csproj",
         "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleks\\bin\\NET\\PetGenerator\\ThePetSaga\\obj\\",
+        "outputPath": "C:\\Users\\aleks\\Main\\test\\MythicalDuels\\PetGenerator\\ThePetSaga\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
